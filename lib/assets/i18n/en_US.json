@@ -1,0 +1,39 @@
+{
+    "app_name" : "PI App",
+
+    "username" : "User",
+    "username_hint": "Type your username",
+    "password": "Password",
+    "password_hint": "Type your password",
+    "repassword": "Repeat password",
+    "repassword_hint": "Type your password",
+    "login" : "Login",
+    "forgot_password" : "Forgot password!",
+    "username_required" : "Username is required!",
+    "password_required" : "Password is required!",
+    "login_password_required" : "Password is required!",
+    "login_password_minimun" : "Password lass than 4 caracters",
+    "divider_text" : "or",
+    "signup" : "Sign Up",
+
+    "email" : "Email",
+    "email_hint": "Type your Email",
+
+    "birthdate" : "Date of birth",
+    "birthdate_hint": "Type your Date of birth",
+
+    "phone" : "Phone",
+    "phone_hint": "Type your Phone number",
+
+    "name" : "Name",
+    "name_hint": "Type your Name",
+
+    "send" : "Send",
+
+    "welcome" : "Welcome to My $alles App",
+    "about_app" : "Keeping finances organized is a challenge\n in a fast-paced world like today, and having a\n real view of a company's finances becomes a\n very big challenge.",
+    "about_app2": "Knowing which company's businesses are being\n most profitable is essential for growing\n and maintaining the business.",
+    "continue" : "Continue"
+
+
+}

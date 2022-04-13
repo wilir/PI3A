@@ -1,0 +1,39 @@
+{
+    "app_name" : "Aplicativo de PI",
+    
+    "username" : "Usuário",
+    "username_hint" : "Informe o nome do seu usuário",
+    "password" : "Senha",
+    "password_hint" : "Informe a sua senha",
+    "repassword" : "Repita a senha",
+    "repassword_hint" : "Informe a sua senha",
+    "login" : "Login",
+    "forgot_password" : "Esqueci a senha!",
+    "username_required" : "O usuário é obrigatório",
+    "password_required" : "A senha é obrigatória",
+    "login_password_required" : "A senha é obrigatória",
+    "login_password_minimun" : "A senha tem menos de 4 caracteres",
+
+    "divider_text" : "ou",
+    "signup" : "Cadastrar",
+
+    "email" : "Email",
+    "email_hint": "Informe seu Email",
+
+    "birthdate" : "Data de nascimento",
+    "birthdate_hint": "Informe sua data de nascimento",
+
+    "phone" : "Telefone",
+    "phone_hint": "Informe seu número de telefone",
+
+    "name" : "Nome",
+    "name_hint": "Informe seu nome",
+
+    "send" : "Enviar",
+
+    "welcome" : "Bem vindo ao My $alles App",
+    "about_app" : "Manter as finanças organizadas é um desafio\n em um mundo tão corrido como os de hoje e ter uma\n visão real das finanças de uma empresa se torna um\n desafio muito grande.",
+    "about_app2": "Saber quais negocios da empresa estão sendo\n mais lucrativos é algo essencial para o crescimento\n e manutenção do negocio.",
+    "continue" : "Continuar"
+
+}
